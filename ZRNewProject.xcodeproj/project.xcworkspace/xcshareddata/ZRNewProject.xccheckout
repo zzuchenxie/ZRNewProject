@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B5111BF-8CC4-445B-A81C-85EE7BD870C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZRNewProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>734344CD-655B-4F40-A2AC-D5456AD59174</key>
+		<string>https://github.com/zzuchenxie/ZRNewProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZRNewProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>734344CD-655B-4F40-A2AC-D5456AD59174</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zzuchenxie/ZRNewProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>734344CD-655B-4F40-A2AC-D5456AD59174</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>734344CD-655B-4F40-A2AC-D5456AD59174</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZRNewProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
