@@ -19,6 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"2014 0525 18:48");
+    UILabel  *LBL;
 }
 
 - (void)didReceiveMemoryWarning
